@@ -126,6 +126,12 @@ footer {
     padding: 1rem;
 }
 
+.image-container {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
 .library-image, .your-picture,
 .ou-logo {
     height: 200px; /* Adjust the size as needed */
