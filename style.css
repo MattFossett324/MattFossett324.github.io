@@ -139,3 +139,17 @@ footer {
     display: block;
     margin: 2rem auto;
 }
+
+.passion-images {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.passion-image {
+    height: 150px;
+    width: auto;
+    display: block;
+    margin: 1rem auto;
+}
