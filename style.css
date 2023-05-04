@@ -126,7 +126,7 @@ footer {
     padding: 1rem;
 }
 
-.library-image,
+.library-image, .your-picture,
 .ou-logo {
     height: 200px; /* Adjust the size as needed */
     width: auto;
