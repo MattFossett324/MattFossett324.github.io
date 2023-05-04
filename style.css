@@ -127,7 +127,14 @@ footer {
 }
 
 .library-image {
-    max-width: 100%;
+    max-width: 200px; /* Adjust the size as needed */
+    height: auto;
+    display: block;
+    margin: 2rem auto;
+}
+
+.ou-logo {
+    max-width: 200px; /* Adjust the size as needed */
     height: auto;
     display: block;
     margin: 2rem auto;
