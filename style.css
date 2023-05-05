@@ -148,8 +148,10 @@ footer {
 }
 
 .passion-image {
-    height: 150px;
+    height: auto;
     width: auto;
+    max-height: 195px;
+    max-width: 130%;
     display: block;
     margin: 1rem auto;
 }
